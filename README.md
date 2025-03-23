@@ -7,5 +7,6 @@ En los distintos repositorios se puede ver el trabajo realizado en varias áreas
 - Ética en el manejo de datos: Se abordó la importancia de la ética en el análisis y uso de datos, considerando aspectos como la privacidad, el sesgo en los algoritmos, la transparencia y la responsabilidad en la toma de decisiones basadas en datos. Este enfoque es crucial para garantizar que el trabajo con datos sea responsable y beneficie a la sociedad.
 - Visualizaciones avanzadas con Plotly: Creando gráficos interactivos, incluyendo visualizaciones geo y en 3D, que permiten una exploración más dinámica de los datos.
 - Integración de APIs: Conectando y consumiendo datos desde APIs externas para enriquecer los análisis.
+
 Considero que los proyectos más recientes son los más importantes, ya que integran y aplican todo lo visto hasta ahora. Además, se incorporó un proyecto desarrollado en Power BI, lo que demuestra la capacidad de combinar herramientas y técnicas para ofrecer soluciones completas y profesionales.
 En resumen, estos proyectos reflejan un progreso constante y la capacidad de aplicar habilidades técnicas en contextos prácticos y complejos, utilizando herramientas como NumPy para cálculos numéricos avanzados y optimización de procesos, sin olvidar la relevancia de la ética en el manejo y análisis de datos.
